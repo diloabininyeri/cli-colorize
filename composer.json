@@ -1,5 +1,6 @@
 {
     "name": "zeus/cli-color",
+    "license": ["MIT"],
     "keywords": ["php","terminal","color","cli","cli-color","terminal coloring"],
     "description": "PHP CLI colorize library, Spice up the terminal texts and backgrounds with PHP. It is especially used in terminal applications.",
     "type": "library",
