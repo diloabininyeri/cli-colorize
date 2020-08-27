@@ -1,4 +1,12 @@
 ## Cli colorize 
+
+install
+```
+composer require zeus/cli-color:dev-master
+```
+
+
+
 >using
 ```php
 <?php
