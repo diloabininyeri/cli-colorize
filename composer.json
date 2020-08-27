@@ -1,0 +1,17 @@
+{
+    "name": "zeus/cli-color",
+    "description": "php colorize terminal",
+    "type": "library",
+    "authors": [
+        {
+            "name": "dılo sürücü",
+            "email": "berxudar@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "CliColorize\\": "src"
+        }
+    }
+}
