@@ -18,3 +18,7 @@ echo $cli->blue("world", Background::YELLOW);
 echo $cli->purple("world", Background::YELLOW);
 
 ```
+
+### screenshot 
+
+![using](https://i.ibb.co/7N8sGf9/Screenshot-from-2020-08-28-00-00-54.png)
