@@ -15,7 +15,7 @@ class Background
     public const RED = 'red';
     public const BLACK = 'black';
     public const GREEN = 'green';
-    public const YELLOW = 'red';
+    public const YELLOW = 'yellow';
     public const BLUE = 'blue';
     public const MAGENTA = 'magenta';
     public const CYAN = 'cyan';
