@@ -18,3 +18,5 @@ echo $cli->red($hello, Background::BLACK) . PHP_EOL;
 echo $cli->blue($world, Background::YELLOW) . PHP_EOL;
 echo $cli->cyan($lorem, Background::RED) . PHP_EOL;
 echo $cli->purple(' without background color') . PHP_EOL;
+echo $cli->magenta(' without background color') . PHP_EOL;
+echo $cli->light_magenta(' without background color') . PHP_EOL;

@@ -19,6 +19,8 @@ namespace CliColorize;
  * @method string brown(string $text, string $background = null)
  * @method string white(string $text, string $background = null)
  * @method string purple(string $text, string $background = null)
+ * @method string magenta(string $text, string $background = null)
+ * @method string light_magenta(string $text, string $background = null)
  */
 class Cli
 {

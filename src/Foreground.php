@@ -29,6 +29,8 @@ class Foreground
         'yellow'=>'1;33',
         'light_gray'=>'0;37',
         'white'=>'1;37',
+        'magenta'=>'1;35',
+        'light_magenta'=>'1;95',
 
     ];
 }
