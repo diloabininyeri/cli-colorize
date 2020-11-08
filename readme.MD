@@ -2,7 +2,7 @@
 
 install
 ```
-composer require zeus/cli-color:dev-master
+composer require zeus/cli-color
 ```
 
 
