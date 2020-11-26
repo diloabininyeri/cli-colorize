@@ -1,13 +1,13 @@
-## Cli colorize 
+## Cli Colorize 
 
-install
-```
+**Install**
+
+```bash
 composer require zeus/cli-color
 ```
 
+**Using example**
 
-
->using
 ```php
 <?php
 
@@ -27,6 +27,35 @@ echo $cli->purple("world", Background::YELLOW);
 
 ```
 
-### screenshot 
+
+
+### Available colors
+
+| Text (Method name) | Background (Constants)   |
+| ------------------ | ------------------------ |
+| black              | `Background::RED`        |
+| dark_gray          | `Background::BLACK`      |
+| green              | `Background::GREEN`      |
+| light_green        | `Background::YELLOW`     |
+| red                | `Background::BLUE`       |
+| light_red          | `Background::MAGENTA`    |
+| blue               | `Background::CYAN`       |
+| light_blue         | `Background::LIGHT_GRAY` |
+| cyan               |                          |
+| light_cyan         |                          |
+| light_purple       |                          |
+| brown              |                          |
+| white              |                          |
+| purple             |                          |
+| magenta            |                          |
+| light_magenta      |                          |
+
+
+
+### Screenshot 
 
 ![using](https://i.ibb.co/7N8sGf9/Screenshot-from-2020-08-28-00-00-54.png)
+
+![Text colors examples](https://i.ibb.co/P1x4s8J/cli-text-colors.png>)
+
+![Background colors example](https://i.ibb.co/JzTrrLc/cli-background-colors.png)

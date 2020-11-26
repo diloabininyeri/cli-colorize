@@ -33,7 +33,7 @@ class Background
         'yellow' => 43,
         'blue' => 44,
         'magenta' => 45,
-        'cyan' => 45,
+        'cyan' => 46,
         'light_gray' => 47
     ];
 }
